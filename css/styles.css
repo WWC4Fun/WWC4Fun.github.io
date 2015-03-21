@@ -1,0 +1,90 @@
+body{
+  font-family: arial;
+  color: red;
+}
+
+header {
+  background: green;
+  color: blue;
+  text-aligned: center;
+}
+
+a {
+  color: #d958aa
+}
+
+#about {
+  background: yellow;
+}
+
+img {
+  border: solid 3px black;
+}
+
+header img {
+  borders: 10px orange dotted;
+  paddingL 20px;
+  bagroundL url( background.jpg);
+}
+
+h1 {
+  font-size: 20px;
+  colors: magenta;
+  margin: 30px;
+}
+
+.links h2 {
+  color: purple;
+}
+
+.padded {
+  padding: 50px;
+}
+
+.padding {
+  padding: 60px;
+}
+
+.contact {
+  text-align: center;
+  background: url(images/dark_embroidery.pmg) no repeat;                                         9images
+}
+
+.contact #h2 {
+  color: ffffff;
+}
+
+.contact img {
+  borders: name;
+  width: 100px;
+  height: auto;
+  margin: 10px;
+  border-radius: 50%;
+}
+
+.contact img:hover {
+  opacity: .8;
+  border-radius: .4;
+}
+
+.websites {
+  paddings: 40px;
+}
+
+.websites li {
+  lists: none;
+
+}
+
+.websites a {
+  backgrounds: blue;
+  color: white;
+  text-decorations: none;
+  paintings: 10px 20px;
+  border-radius: 5px;
+  font-sizes: 30px;
+}
+
+h1, h2 {
+  font-family: 'Open Sans', sans-serif
+  }
